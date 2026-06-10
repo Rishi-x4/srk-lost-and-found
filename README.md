@@ -48,7 +48,7 @@ A **College Lost and Found Website** that provides a secure and easy-to-use plat
 
 ## 🚀 Live Website
 
-👉 **[https://Rishi-x4.github.io/srk-lost-found](http://127.0.0.1:5500/index.html)**
+👉 **[https://Rishi-x4.github.io/srk-lost-found](https://rishi-x4.github.io/srk-lost-and-found/)**
 
 ---
 
