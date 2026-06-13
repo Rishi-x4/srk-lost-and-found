@@ -2,7 +2,6 @@
 
 > A centralized digital platform for students and staff to report and reclaim lost items on campus.
 
-## 🌐 [Click Here to Open Website](https://Rishi-x4.github.io/srk-lost-found)
 
 ---
 
